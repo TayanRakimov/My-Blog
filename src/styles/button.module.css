@@ -1,0 +1,21 @@
+.btn{
+    border: 0;
+    padding: 12px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    
+}
+
+.bg-yellow{
+    background-color: yellow;
+
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-gray{
+    background-color: gray;
+}
